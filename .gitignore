@@ -8,8 +8,8 @@ mobile/*.key
 mobile/*.mobileprovision
 mobile/*.orig.*
 mobile/web-build/
-#mobile/package-lock.json
-
+mobile/package-lock.json
+#mobile/yarn.lock
 # macOS
 mobile/.DS_Store
 
