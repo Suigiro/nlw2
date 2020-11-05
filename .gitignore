@@ -8,6 +8,7 @@ mobile/*.key
 mobile/*.mobileprovision
 mobile/*.orig.*
 mobile/web-build/
+mobile/package-lock.json
 
 # macOS
 mobile/.DS_Store
@@ -33,6 +34,8 @@ web/.env.production.local
 web/npm-debug.log*
 web/yarn-debug.log*
 web/yarn-error.log*
+web/package-lock.json
 
 server/node_modules/**/*
+server/package-lock.json
 nlw2.code-workspace
